@@ -1,0 +1,982 @@
+# AI Multi-Platform Chat Plugin - English
+# Copyright (C) 2025 Eddie Shih
+# This file is distributed under the same license as the AI Multi-Platform Chat Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Multi-Platform Chat Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://hugoshih.eu.org\n"
+"POT-Creation-Date: 2025-06-07 12:00+0000\n"
+"PO-Revision-Date: 2025-06-26 12:00+0000\n"
+"Last-Translator: Eddie Shih <eddie@hugoshih.eu.org>\n"
+"Language-Team: English\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WordPress\n"
+
+msgid "Chat Settings"
+msgstr "Chat Settings"
+
+msgid "Chat History"
+msgstr "Chat History"
+
+msgid "AI Data Sources"
+msgstr "AI Data Sources"
+
+msgid "Saving..."
+msgstr "Saving..."
+
+msgid "Settings saved!"
+msgstr "Settings saved!"
+
+msgid "Error saving settings"
+msgstr "Error saving settings"
+
+msgid "尚無對話記錄"
+msgstr "No conversation records yet"
+
+msgid "當用戶開始使用 AI 聊天功能時，對話記錄將會顯示在這裡。"
+msgstr "When users start using the AI chat feature, conversation records will be displayed here."
+
+msgid "此對話尚無訊息記錄"
+msgstr "No message records for this conversation yet"
+
+msgid "用戶"
+msgstr "User"
+
+msgid "AI助手"
+msgstr "AI Assistant"
+
+msgid "暫無訊息記錄"
+msgstr "No message records"
+
+msgid "AI"
+msgstr "AI"
+
+msgid "數據庫表更新成功！"
+msgstr "Database table updated successfully!"
+
+msgid "數據庫更新失敗: "
+msgstr "Database update failed: "
+
+msgid "數據源添加成功！"
+msgstr "Data source added successfully!"
+
+msgid "添加失敗，URL可能已存在或格式無效。"
+msgstr "Failed to add, URL may already exist or format is invalid."
+
+msgid "管理AI助手可以讀取的外部數據源連結"
+msgstr "Manage external data source links that the AI assistant can read"
+
+msgid "添加新數據源"
+msgstr "Add New Data Source"
+
+msgid "標題 (可選)"
+msgstr "Title (Optional)"
+
+msgid "自動獲取"
+msgstr "Auto Fetch"
+
+msgid "標題"
+msgstr "Title"
+
+msgid "添加時間"
+msgstr "Added Time"
+
+msgid "無標題"
+msgstr "No Title"
+
+msgid "尚未添加任何數據源"
+msgstr "No data sources added yet"
+
+msgid "請使用上方表單添加第一個數據源連結"
+msgstr "Please use the form above to add your first data source link"
+
+msgid "對話 #%d"
+msgstr "Conversation #%d"
+
+msgid "開始時間："
+msgstr "Start Time: "
+
+msgid "最後活動："
+msgstr "Last Activity: "
+
+msgid "前"
+msgstr "ago"
+
+msgid "平台："
+msgstr "Platform: "
+
+msgid "用戶IP："
+msgstr "User IP: "
+
+msgid "共 %d 則訊息"
+msgstr "Total %d messages"
+
+msgid "enabled_platforms 已修復，ai-chat 平台已啟用"
+msgstr "enabled_platforms has been fixed, ai-chat platform is now enabled"
+
+msgid "設定更新失敗"
+msgstr "Settings update failed"
+
+msgid "正在設定"
+msgstr "Configuring"
+
+msgid "請不要離開或刷新, AI正在思考中..."
+msgstr "Please do not leave or refresh, AI is thinking..."
+
+msgid "抱歉，發生錯誤。請重試。"
+msgstr "Sorry, there was an error. Please try again."
+
+msgid "請輸入您的信息..."
+msgstr "Type your message..."
+
+msgid "發送"
+msgstr "Send"
+
+msgid "最小化"
+msgstr "Minimize"
+
+msgid "最大化"
+msgstr "Maximize"
+
+msgid "全螢幕"
+msgstr "Fullscreen"
+
+msgid "退出全螢幕"
+msgstr "Exit Fullscreen"
+
+msgid "關閉"
+msgstr "Close"
+
+msgid "AI智能助手"
+msgstr "AI Assistant"
+
+msgid "您好！歡迎來到 %s。我可以如何幫助您？"
+msgstr "Hello! Welcome to %s. How can I help you?"
+
+msgid "您好！我是 %s 的AI智能助手。您想了解什麼？"
+msgstr "Hi there! I'm the AI assistant for %s. What would you like to know?"
+
+msgid "歡迎！我在這裡為您解答關於 %s 的任何問題。"
+msgstr "Welcome! I'm here to help you with any questions about %s."
+
+msgid "AI 聊天"
+msgstr "AI Chat"
+
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+msgid "LINE"
+msgstr "LINE"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "WeChat 微信"
+msgstr "WeChat"
+
+msgid "QQ"
+msgstr "QQ"
+
+msgid "Facebook Messenger"
+msgstr "Facebook Messenger"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "最近5個對話記錄："
+msgstr "Recent 5 conversation records:"
+
+msgid "ID: %s, 對話ID: %s, 創建時間: %s"
+msgstr "ID: %s, Conversation ID: %s, Created: %s"
+
+msgid "最近5條消息："
+msgstr "Recent 5 messages:"
+
+msgid "ID: %s, 對話ID: %s, 發送者: %s, 消息: %s..., 時間: %s"
+msgstr "ID: %s, Conversation ID: %s, Sender: %s, Message: %s..., Time: %s"
+
+msgid "⚠️ 請至少選擇一個聊天平台！"
+msgstr "⚠️ Please select at least one chat platform!"
+
+msgid "⚠️ 確定要清除所有對話記錄嗎？\\n\\n此操作將永久刪除所有對話和訊息，無法撤銷！"
+msgstr "⚠️ Are you sure you want to clear all conversation records?\\n\\nThis operation will permanently delete all conversations and messages and cannot be undone!"
+
+msgid "選擇: "
+msgstr "Select: "
+
+msgid "對話ID: "
+msgstr "Conversation ID: "
+
+msgid "開始時間: "
+msgstr "Start Time: "
+
+msgid "訊息數: "
+msgstr "Messages: "
+
+msgid "最後活動: "
+msgstr "Last Activity: "
+
+msgid "平台: "
+msgstr "Platform: "
+
+msgid "IP地址: "
+msgstr "IP Address: "
+
+msgid "操作: "
+msgstr "Actions: "
+
+msgid "請先選擇要刪除的對話記錄。"
+msgstr "Please select conversation records to delete first."
+
+msgid "⚠️ 確定要刪除選中的"
+msgstr "⚠️ Are you sure you want to delete the selected"
+
+msgid "個對話嗎？\\n\\n此操作將永久刪除這些對話的所有訊息記錄，無法撤銷。"
+msgstr "conversations?\\n\\nThis operation will permanently delete all message records of these conversations and cannot be undone."
+
+msgid "⚠️ 確定要刪除這個對話嗎？\\n\\n此操作將永久刪除該對話的所有訊息記錄，無法撤銷。"
+msgstr "⚠️ Are you sure you want to delete this conversation?\\n\\nThis operation will permanently delete all message records of this conversation and cannot be undone."
+
+msgid "⚠️ 確定要清除所有數據源嗎？\\n\\n此操作將永久刪除所有數據源，無法撤銷！"
+msgstr "⚠️ Are you sure you want to clear all data sources?\\n\\nThis operation will permanently delete all data sources and cannot be undone!"
+
+msgid "確定要刪除這個數據源嗎？"
+msgstr "Are you sure you want to delete this data source?"
+
+msgid "對話ID:"
+msgstr "Conversation ID:"
+
+msgid "平台:"
+msgstr "Platform:"
+
+msgid "狀態:"
+msgstr "Status:"
+
+msgid "開始時間:"
+msgstr "Start Time:"
+
+msgid "最後活動:"
+msgstr "Last Activity:"
+
+msgid "訊息數量:"
+msgstr "Message Count:"
+
+msgid "訊息記錄"
+msgstr "Message Records"
+
+msgid "總訊息數"
+msgstr "Total Messages"
+
+msgid "對話管理"
+msgstr "Conversation Management"
+
+msgid "共 %d 個對話"
+msgstr "Total %d conversations"
+
+msgid "刪除選中項"
+msgstr "Delete Selected"
+
+msgid "清除全部"
+msgstr "Clear All"
+
+msgid "對話ID"
+msgstr "Conversation ID"
+
+msgid "開始時間"
+msgstr "Start Time"
+
+msgid "訊息數"
+msgstr "Messages"
+
+msgid "最後活動"
+msgstr "Last Activity"
+
+msgid "平台"
+msgstr "Platform"
+
+msgid "IP地址"
+msgstr "IP Address"
+
+msgid "操作"
+msgstr "Actions"
+
+msgid "查看"
+msgstr "View"
+
+msgid "刪除"
+msgstr "Delete"
+
+msgid "數據源刪除成功！"
+msgstr "Data source deleted successfully!"
+
+msgid "數據源列表"
+msgstr "Data Source List"
+
+msgid "URL 連結"
+msgstr "URL Link"
+
+msgid "API 金鑰未設定"
+msgstr "API key not configured"
+
+msgid "連接測試失敗: "
+msgstr "Connection test failed: "
+
+msgid "總對話數"
+msgstr "Total Conversations"
+
+msgid "AI 聊天設定"
+msgstr "AI Chat Settings"
+
+msgid "AI獲取資料"
+msgstr "AI Data Sources"
+
+msgid "添加"
+msgstr "Add"
+
+msgid "AI Chat Conversation History"
+msgstr "AI Chat Conversation History"
+
+msgid "Manage and view all AI chat conversation records"
+msgstr "Manage and view all AI chat conversation records"
+
+msgid "活躍對話"
+msgstr "Active Conversations"
+
+msgid "總數據源"
+msgstr "Total Data Sources"
+
+msgid "Email 電子郵件"
+msgstr "Email"
+
+msgid "Phone 電話"
+msgstr "Phone"
+
+msgid "Deleted %d conversation records."
+msgstr "Deleted %d conversation records."
+
+msgid "Cleared all conversation records, total %d conversations."
+msgstr "Cleared all conversation records, total %d conversations."
+
+msgid "已自動創建缺失的數據表：%s"
+msgstr "Automatically created missing database tables: %s"
+
+msgid "已清除 %d 個數據源！"
+msgstr "Cleared %d data sources!"
+
+msgid "AI Multi-Platform Chat Settings"
+msgstr "AI Multi-Platform Chat Settings"
+
+msgid "Integrate multiple chat platforms and provide intelligent conversation services"
+msgstr "Integrate multiple chat platforms and provide intelligent conversation services"
+
+msgid "Quick Select"
+msgstr "Quick Select"
+
+msgid "Popular Combo"
+msgstr "Popular Combo"
+
+msgid "Social Combo"
+msgstr "Social Combo"
+
+msgid "Upload WeChat QR Code image, users will see this image when they click"
+msgstr "Upload WeChat QR Code image, users will see this image when they click"
+
+msgid "AI Multi-Platform Chat plugin has been activated successfully! <a href=\"%s\">Configure your chat settings</a> to get started."
+msgstr "AI Multi-Platform Chat plugin has been activated successfully! <a href=\"%s\">Configure your chat settings</a> to get started."
+
+msgid "AI Multi-Platform Chat plugin has been updated successfully!"
+msgstr "AI Multi-Platform Chat plugin has been updated successfully!"
+
+# Missing admin interface translations
+msgid "Display Settings"
+msgstr "Display Settings"
+
+msgid "Frontend Preview"
+msgstr "Frontend Preview"
+
+msgid "Select platforms to view effects:"
+msgstr "Select platforms to view effects:"
+
+msgid "Select All"
+msgstr "Select All"
+
+msgid "Clear All"
+msgstr "Clear All"
+
+msgid "After checking platforms on the left, the corresponding settings will appear here"
+msgstr "After checking platforms on the left, the corresponding settings will appear here"
+
+msgid "No platform selected yet"
+msgstr "No platform selected yet"
+
+msgid "✅ Selected 1 platform (Single mode)"
+msgstr "✅ Selected 1 platform (Single mode)"
+
+msgid "✅ Selected %d platforms (Multi-select mode)"
+msgstr "✅ Selected %d platforms (Multi-select mode)"
+
+msgid "⚠️ AI chat function requires API key setup!"
+msgstr "⚠️ AI chat function requires API key setup!"
+
+msgid "Test Connection"
+msgstr "Test Connection"
+
+# New admin interface translations (Traditional Chinese to English)
+msgid "聊天設置"
+msgstr "Chat Settings"
+
+msgid "聊天歷史"
+msgstr "Chat History"
+
+msgid "AI 數據源"
+msgstr "AI Data Sources"
+
+msgid "AI 多平台聊天設置"
+msgstr "AI Multi-Platform Chat Settings"
+
+msgid "整合多個聊天平台並提供智能對話服務"
+msgstr "Integrate multiple chat platforms and provide intelligent conversation services"
+
+msgid "選擇聊天平台"
+msgstr "Select Chat Platform"
+
+msgid "勾選您要啟用的聊天平台，相應的設置將出現在右側"
+msgstr "Check the chat platforms you want to enable, and the corresponding settings will appear on the right"
+
+msgid "快捷選擇"
+msgstr "Quick Select"
+
+msgid "熱門組合"
+msgstr "Popular Combo"
+
+msgid "社交組合"
+msgstr "Social Combo"
+
+msgid "全選"
+msgstr "Select All"
+
+msgid "前台預覽"
+msgstr "Frontend Preview"
+
+msgid "選擇平台查看效果："
+msgstr "Select platforms to view effects:"
+
+msgid "查看前台效果"
+msgstr "View Frontend Effect"
+
+msgid "顯示邏輯："
+msgstr "Display Logic:"
+
+msgid "單一平台：直接顯示聊天窗口"
+msgstr "Single platform: Direct chat window"
+
+msgid "多個平台：顯示選擇菜單"
+msgstr "Multiple platforms: Show selection menu"
+
+msgid "平台設置"
+msgstr "Platform Settings"
+
+msgid "請選擇要配置的平台"
+msgstr "Please select a platform to configure"
+
+msgid "在左側勾選平台後，相應的設置將在此處顯示"
+msgstr "After checking platforms on the left, the corresponding settings will appear here"
+
+msgid "顯示設置"
+msgstr "Display Settings"
+
+msgid "插件功能"
+msgstr "Plugin Features"
+
+msgid "整合 AI 智能聊天和多平台聊天功能，讓訪客能夠獲得即時回答或連接到社交媒體平台。"
+msgstr "Integrate AI intelligent chat and multi-platform chat functions, allowing visitors to get instant answers or connect to social media platforms."
+
+msgid "主要功能"
+msgstr "Key Features"
+
+msgid "AI 智能聊天"
+msgstr "AI Intelligent Chat"
+
+msgid "支持 GPT-4、Claude、Gemini"
+msgstr "Support GPT-4, Claude, Gemini"
+
+msgid "多語言支持"
+msgstr "Multi-language Support"
+
+msgid "自動檢測語言並回應"
+msgstr "Auto detect language and respond"
+
+msgid "對話記錄"
+msgstr "Conversation Records"
+
+msgid "基於 IP 的歷史記錄保存"
+msgstr "IP-based history preservation"
+
+msgid "15+ 平台整合"
+msgstr "15+ Platform Integration"
+
+msgid "WhatsApp、LINE、Telegram 等"
+msgstr "WhatsApp, LINE, Telegram etc"
+
+msgid "響應式設計"
+msgstr "Responsive Design"
+
+msgid "完美支持移動端和桌面端"
+msgstr "Perfect support for mobile and desktop"
+
+msgid "完全自定義"
+msgstr "Complete Customization"
+
+msgid "顏色、大小、位置、動畫"
+msgstr "Colors, size, position, animations"
+
+msgid "快速連結"
+msgstr "Quick Links"
+
+msgid "查看聊天歷史"
+msgstr "View Chat History"
+
+msgid "使用文檔"
+msgstr "Use Documentation"
+
+msgid "獲取 API 密鑰"
+msgstr "Get API Key"
+
+# API and platform settings
+msgid "API 提供商"
+msgstr "API Provider"
+
+msgid "自定義 API"
+msgstr "Custom API"
+
+msgid "API 密鑰"
+msgstr "API Key"
+
+msgid "輸入您的 API 密鑰"
+msgstr "Enter your API key"
+
+msgid "自定義 API URL"
+msgstr "Custom API URL"
+
+msgid "輸入您的自定義 API 端點 URL"
+msgstr "Enter your custom API endpoint URL"
+
+msgid "電話號碼"
+msgstr "Phone Number"
+
+msgid "包含國家代碼（例如：+1234567890）"
+msgstr "Include country code (e.g., +1234567890)"
+
+msgid "預設訊息"
+msgstr "Default Message"
+
+msgid "用戶點擊 WhatsApp 氣泡時的預設訊息（可選）"
+msgstr "Default message when users click WhatsApp bubble (optional)"
+
+# Display settings
+msgid "聊天位置"
+msgstr "Chat Position"
+
+msgid "右下角"
+msgstr "Bottom Right"
+
+msgid "左下角"
+msgstr "Bottom Left"
+
+msgid "底部中央"
+msgstr "Bottom Center"
+
+msgid "右上角"
+msgstr "Top Right"
+
+msgid "左上角"
+msgstr "Top Left"
+
+msgid "右側中央"
+msgstr "Middle Right"
+
+msgid "左側中央"
+msgstr "Middle Left"
+
+msgid "底部距離"
+msgstr "Bottom Distance"
+
+msgid "px - 聊天按鈕距離底部的距離（適用於底部位置）"
+msgstr "px - Distance from bottom for chat button (applies to bottom positions)"
+
+msgid "頂部距離"
+msgstr "Top Distance"
+
+msgid "px - 聊天按鈕距離頂部的距離（適用於頂部位置）"
+msgstr "px - Distance from top for chat button (applies to top positions)"
+
+msgid "啟用動畫"
+msgstr "Enable animations"
+
+msgid "顯示通知徽章"
+msgstr "Show notification badge"
+
+msgid "氣泡動畫持續時間"
+msgstr "Bubble Animation Duration"
+
+msgid "氣泡展開/收縮動畫的持續時間（毫秒）"
+msgstr "Duration of bubble expand/collapse animation (milliseconds)"
+
+# Additional platform settings
+msgid "上傳 QR Code"
+msgstr "Upload QR Code"
+
+msgid "移除"
+msgstr "Remove"
+
+msgid "Messenger 連結"
+msgstr "Messenger Link"
+
+msgid "電子郵件"
+msgstr "Email"
+
+msgid "聯絡電子郵件地址"
+msgstr "Contact email address"
+
+msgid "連結 URL"
+msgstr "Link URL"
+
+msgid "您的 %s 連結 URL"
+msgstr "Your %s link URL"
+
+msgid "QQ Number"
+msgstr "QQ Number"
+
+msgid "Your QQ number"
+msgstr "Your QQ number"
+
+msgid "Email Subject"
+msgstr "Email Subject"
+
+msgid "Default email subject"
+msgstr "Default email subject"
+
+# Additional display settings
+msgid "在移動設備上顯示"
+msgstr "Display on mobile devices"
+
+msgid "按鈕顏色"
+msgstr "Button Color"
+
+msgid "聊天按鈕的背景顏色"
+msgstr "Background color of the chat button"
+
+msgid "按鈕大小"
+msgstr "Button Size"
+
+msgid "小"
+msgstr "Small"
+
+msgid "中"
+msgstr "Medium"
+
+msgid "大"
+msgstr "Large"
+
+msgid "顯示選項"
+msgstr "Display Options"
+
+msgid "自動隱藏氣泡"
+msgstr "Auto Hide Bubbles"
+
+msgid "秒"
+msgstr "seconds"
+
+msgid "氣泡展開後自動隱藏的時間，0 表示永不自動隱藏"
+msgstr "Time to auto-hide bubbles after expansion, 0 means never auto-hide"
+
+# JavaScript strings
+msgid "儲存中..."
+msgstr "Saving..."
+
+msgid "設置已儲存！"
+msgstr "Settings saved!"
+
+msgid "儲存設置時發生錯誤"
+msgstr "Error saving settings"
+
+# History page translations
+msgid "AI 聊天對話歷史"
+msgstr "AI Chat Conversation History"
+
+msgid "管理和查看所有 AI 聊天對話記錄"
+msgstr "Manage and view all AI chat conversation records"
+
+# Data sources page translations
+
+msgid "數據庫表缺失"
+msgstr "Database Table Missing"
+
+msgid "ai_chat_data_sources 數據表不存在，需要創建才能使用數據源功能。"
+msgstr "ai_chat_data_sources table does not exist, needs to be created to use data source functionality."
+
+msgid "修復數據庫"
+msgstr "Repair Database"
+
+# Additional UI elements
+msgid "儲存所有設置"
+msgstr "Save All Settings"
+
+msgid "關於 AI 多平台聊天插件"
+msgstr "About AI Multi-Platform Chat Plugin"
+
+msgid "需要幫助？"
+msgstr "Need Help?"
+
+msgid "如果您在使用過程中遇到任何問題，歡迎聯繫我們"
+msgstr "If you encounter any issues during use, feel free to contact us"
+
+msgid "電子郵件支援"
+msgstr "Email Support"
+
+msgid "官方網站"
+msgstr "Official Website"
+
+msgid "AI 模型"
+msgstr "AI Model"
+
+msgid "模型名稱（例如：openai/gpt-3.5-turbo）"
+msgstr "Model name (e.g., openai/gpt-3.5-turbo)"
+
+# Feature descriptions
+msgid "24/7 自動回應"
+msgstr "24/7 Auto Response"
+
+msgid "多平台整合"
+msgstr "Multi-Platform Integration"
+
+msgid "15+ 社交平台"
+msgstr "15+ Social Platforms"
+
+# Plugin settings link
+msgid "設定"
+msgstr "Settings"
+
+# Plugin name and description
+msgid "AI 多平台聊天"
+msgstr "AI Multi-Platform Chat"
+
+msgid "整合 AI 智能聊天和多平台聊天功能的綜合性插件，支援 Facebook Messenger、WhatsApp、LINE、WeChat、AI 聊天、QQ、Instagram 等平台。"
+msgstr "A comprehensive multi-platform chat plugin integrating AI intelligent chat and multi-platform chat functions, supporting Facebook Messenger, WhatsApp, LINE, WeChat, AI Chat, QQ, Instagram and other platforms."
+
+# AI response delay notice
+msgid "重要聲明：AI的回應速度可能較慢。AI提供的資訊僅供參考，本公司對其準確性或完整性不承擔任何責任。AI回覆不代表本公司立場。"
+msgstr "Important notice: AI responses may be slower than expected. AI provides information for reference only, and we are not responsible for its accuracy or completeness. AI responses do not represent the position of this company."
+
+# AI Custom Text feature
+msgid "自定義 AI 指導文字"
+msgstr "Custom AI Guidance Text"
+
+msgid "在此輸入額外的文字內容來指導 AI 助手的回應。這些內容將與網站數據一起提供給 AI。"
+msgstr "Enter additional text content here to guide the AI assistant's responses. This content will be provided to the AI along with website data."
+
+msgid "AI 指導文字"
+msgstr "AI Guidance Text"
+
+msgid "例如：我們是專業的泳衣零售商，主要銷售 FUNKTIA、TYR 等品牌的泳衣產品。我們提供專業的游泳裝備建議和優質的客戶服務..."
+msgstr "For example: We are a professional swimwear retailer, mainly selling FUNKTIA, TYR and other brand swimwear products. We provide professional swimming equipment advice and quality customer service..."
+
+msgid "提示：這些文字將幫助 AI 更好地了解您的業務和產品，提供更準確的回應。"
+msgstr "Tip: This text will help the AI better understand your business and products, providing more accurate responses."
+
+msgid "保存設定"
+msgstr "Save Settings"
+
+msgid "AI 指導文字保存成功！"
+msgstr "AI guidance text saved successfully!"
+
+# Product information labels
+msgid "產品名稱"
+msgstr "Product Name"
+
+msgid "價格"
+msgstr "Price"
+
+msgid "分類"
+msgstr "Category"
+
+msgid "庫存狀態"
+msgstr "Stock Status"
+
+msgid "有庫存"
+msgstr "In Stock"
+
+msgid "缺貨"
+msgstr "Out of Stock"
+
+msgid "產品編號"
+msgstr "SKU"
+
+msgid "銷售數量"
+msgstr "Sales Count"
+
+msgid "簡介"
+msgstr "Description"
+
+msgid "詳細描述"
+msgstr "Details"
+
+msgid "連結"
+msgstr "Link"
+
+# API Performance Optimization
+msgid "⚡ API 性能優化"
+msgstr "⚡ API Performance Optimization"
+
+msgid "調整以下設置可以顯著提升 AI 反應速度"
+msgstr "Adjusting the following settings can significantly improve AI response speed"
+
+msgid "系統提示最大長度"
+msgstr "Maximum System Prompt Length"
+
+msgid "限制發送給 AI 的系統提示長度（字符數）"
+msgstr "Limit the length of system prompt sent to AI (character count)"
+
+msgid "快速模式：50,000 - 80,000 字符（反應最快）"
+msgstr "Fast Mode: 50,000 - 80,000 characters (fastest response)"
+
+msgid "平衡模式：100,000 - 150,000 字符（推薦）"
+msgstr "Balanced Mode: 100,000 - 150,000 characters (recommended)"
+
+msgid "完整模式：200,000+ 字符（內容最全但較慢）"
+msgstr "Complete Mode: 200,000+ characters (most comprehensive but slower)"
+
+msgid "網站文章抓取數量"
+msgstr "Website Articles Fetch Count"
+
+msgid "限制從網站抓取的文章數量"
+msgstr "Limit the number of articles fetched from website"
+
+msgid "快速模式：20-30 篇（反應最快）"
+msgstr "Fast Mode: 20-30 articles (fastest response)"
+
+msgid "平衡模式：50-80 篇（推薦）"
+msgstr "Balanced Mode: 50-80 articles (recommended)"
+
+msgid "完整模式：100+ 篇（內容最全但較慢）"
+msgstr "Complete Mode: 100+ articles (most comprehensive but slower)"
+
+msgid "產品信息抓取數量"
+msgstr "Product Information Fetch Count"
+
+msgid "限制從 WooCommerce 抓取的產品數量"
+msgstr "Limit the number of products fetched from WooCommerce"
+
+msgid "快速模式：20-30 個產品"
+msgstr "Fast Mode: 20-30 products"
+
+msgid "平衡模式：50-80 個產品（推薦）"
+msgstr "Balanced Mode: 50-80 products (recommended)"
+
+msgid "完整模式：100+ 個產品"
+msgstr "Complete Mode: 100+ products"
+
+msgid "對話歷史發送數量"
+msgstr "Conversation History Send Count"
+
+msgid "發送給 AI 的最近對話消息數量"
+msgstr "Number of recent conversation messages sent to AI"
+
+msgid "快速模式：5-8 條消息"
+msgstr "Fast Mode: 5-8 messages"
+
+msgid "平衡模式：10-15 條消息（推薦）"
+msgstr "Balanced Mode: 10-15 messages (recommended)"
+
+msgid "完整模式：20+ 條消息"
+msgstr "Complete Mode: 20+ messages"
+
+msgid "啟用並行處理"
+msgstr "Enable Parallel Processing"
+
+msgid "啟用並行數據獲取（推薦）"
+msgstr "Enable parallel data fetching (recommended)"
+
+msgid "同時獲取多個數據源，而不是順序處理，可顯著提升速度"
+msgstr "Fetch multiple data sources simultaneously instead of sequential processing, significantly improving speed"
+
+msgid "💡 提示：啟用此選項可將數據獲取時間減少 50-70%"
+msgstr "💡 Tip: Enabling this option can reduce data fetching time by 50-70%"
+
+# Sitemap Management
+msgid "🗺️ Sitemap 管理（產品推薦數據源）"
+msgstr "🗺️ Sitemap Management (Product Recommendation Data Source)"
+
+msgid "添加您的產品 sitemap 網址，AI 將從這些 sitemap 中抓取正確的產品連結進行推薦"
+msgstr "Add your product sitemap URLs, AI will fetch correct product links from these sitemaps for recommendations"
+
+msgid "Sitemap 網址"
+msgstr "Sitemap URL"
+
+msgid "標題（可選）"
+msgstr "Title (Optional)"
+
+msgid "產品 Sitemap"
+msgstr "Product Sitemap"
+
+msgid "添加 Sitemap"
+msgstr "Add Sitemap"
+
+msgid "已添加的 Sitemaps"
+msgstr "Added Sitemaps"
+
+msgid "確定要刪除這個 Sitemap 嗎？"
+msgstr "Are you sure you want to delete this Sitemap?"
+
+msgid "Sitemap 添加成功！"
+msgstr "Sitemap added successfully!"
+
+msgid "Sitemap 刪除成功！"
+msgstr "Sitemap deleted successfully!"
+
+msgid "產品連結"
+msgstr "Product Link"
+
+# New UI Text
+msgid "選擇平台"
+msgstr "Select Platforms"
+
+msgid "勾選您要啟用的聊天平台，支持 AI 智能聊天和 15+ 社交平台"
+msgstr "Check the chat platforms you want to enable, supports AI chat and 15+ social platforms"
+
+msgid "配置設置"
+msgstr "Configure Settings"
+
+msgid "設置各平台的連接信息、AI 模型參數和顯示選項"
+msgstr "Set up connection info for each platform, AI model parameters and display options"
+
+msgid "立即生效"
+msgstr "Take Effect Immediately"
+
+msgid "保存設置後立即在前台顯示聊天按鈕，訪客可開始對話"
+msgstr "Chat buttons will appear on frontend immediately after saving settings, visitors can start chatting"
+
+# Additional UI Text
+msgid "整合 AI 智能聊天和多平台聊天功能，讓訪客能夠獲得即時回答或連接到社交媒體平台。支持 GPT-4、Claude、Gemini 等 AI 模型，以及 WhatsApp、LINE、Telegram 等 15+ 社交平台。"
+msgstr "Integrates AI intelligent chat and multi-platform chat features, allowing visitors to get instant answers or connect to social media platforms. Supports AI models like GPT-4, Claude, Gemini, and 15+ social platforms including WhatsApp, LINE, Telegram."
+
+msgid "查看文檔或聯繫支援"
+msgstr "View documentation or contact support"
+
+msgid "配置選中平台的連接信息和顯示選項"
+msgstr "Configure connection info and display options for selected platforms"
+
+msgid "查看文檔"
+msgstr "View Documentation"
+
+msgid "聯繫支援"
+msgstr "Contact Support"
+
+msgid "AI反應會有點慢, 約1分鐘, 請耐心等候, 也可縮小後先瀏覽, 稍後回來再看"
+msgstr "AI response may be slow, about 1 minute. Please be patient, or minimize and browse first, then come back later."
+
+msgid "測試連接"
+msgstr "Test Connection"

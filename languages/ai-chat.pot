@@ -1,0 +1,508 @@
+# AI Multi-Platform Chat Plugin
+# Copyright (C) 2025 Eddie Shih
+# This file is distributed under the same license as the AI Multi-Platform Chat Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Multi-Platform Chat Plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: https://hugoshih.eu.org\n"
+"POT-Creation-Date: 2025-06-07 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WordPress\n"
+
+#: ai-chat.php:15
+msgid "A comprehensive multi-platform chat plugin supporting Facebook Messenger, WhatsApp, LINE, WeChat, AI-Chat, QQ, Instagram with AI integration."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:25
+msgid "AI Chat Settings"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:26
+msgid "AI Chat"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:50
+msgid "Saving..."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:51
+msgid "Settings saved!"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:52
+msgid "Error saving settings"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:213
+msgid "選擇聊天平台"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:215
+msgid "勾選您要啟用的聊天平台，右側會顯示對應的設定選項"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:256
+msgid "平台設定"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:265
+msgid "請先選擇要設定的平台"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:266
+msgid "在左側勾選平台後，對應的設定選項會在這裡顯示"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:282
+msgid "顯示設定"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:377
+msgid "儲存所有設定"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:392
+msgid "AI 聊天"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:412
+msgid "WeChat 微信"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:460
+msgid "Email 電子郵件"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:464
+msgid "Phone 電話"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:99
+msgid "AI Multi-Platform Chat Settings"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:104
+msgid "Select Platform"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:118
+msgid "Display Settings"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:122
+msgid "Save Settings"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:127
+msgid "Platform Instructions"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:132
+msgid "Chat Preview"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:134
+msgid "Hello! How can I help you?"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:145
+msgid "Facebook Messenger"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:149
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:153
+msgid "LINE"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:157
+msgid "WeChat"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:161
+msgid "AI Chat"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:165
+msgid "QQ"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:169
+msgid "Instagram"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:183
+msgid "AI Chat Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:187
+msgid "API Provider"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:190
+msgid "Custom API"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:195
+msgid "API Key"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:197
+msgid "Enter your API key"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:202
+msgid "Custom API URL"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:204
+msgid "Enter your custom API endpoint URL"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:209
+msgid "AI Model"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:211
+msgid "Model name (e.g., openai/gpt-3.5-turbo)"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:216
+msgid "System Prompt"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:218
+msgid "Custom system prompt to initialize the AI conversation"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:224
+msgid "WhatsApp Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:227
+msgid "Phone Number"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:229
+msgid "Include country code (e.g., +1234567890)"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:235
+msgid "Facebook Messenger Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:238
+msgid "Page ID"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:240
+msgid "Your Facebook Page ID"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:246
+msgid "LINE Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:249
+msgid "Channel ID"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:251
+msgid "Your LINE Channel ID"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:257
+msgid "WeChat Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:260
+msgid "WeChat Account"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:262
+msgid "Your WeChat account ID"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:268
+msgid "QQ Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:271
+msgid "QQ Number"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:273
+msgid "Your QQ number"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:279
+msgid "Instagram Configuration"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:282
+msgid "Username"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:284
+msgid "Your Instagram username"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:295
+msgid "Chat Position"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:298
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:299
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:300
+msgid "Top Right"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:301
+msgid "Top Left"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:306
+msgid "Chat Size"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:309
+msgid "Small"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:310
+msgid "Medium"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:311
+msgid "Large"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:316
+msgid "Chat Color"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:321
+msgid "Display Options"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:325
+msgid "Display on mobile devices"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:329
+msgid "Enable animations"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:340
+msgid "AI Chat Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:341
+msgid "Configure your AI chat bot with OpenRouter.ai or custom API. The AI will learn about your website content to provide relevant responses."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:344
+msgid "WhatsApp Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:345
+msgid "Enter your WhatsApp phone number with country code. Visitors will be able to start a conversation with you directly on WhatsApp."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:348
+msgid "Facebook Messenger Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:349
+msgid "Get your Facebook Page ID from your Facebook Page settings to enable Messenger integration."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:352
+msgid "LINE Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:353
+msgid "Create a LINE Official Account and get your Channel ID from the LINE Developers console."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:356
+msgid "WeChat Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:357
+msgid "Enter your WeChat account ID. Users will be able to find and chat with you on WeChat."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:360
+msgid "QQ Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:361
+msgid "Enter your QQ number. Visitors can contact you directly through QQ messaging."
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:364
+msgid "Instagram Setup"
+msgstr ""
+
+#: includes/class-ai-chat-admin.php:365
+msgid "Enter your Instagram username. Users will be directed to your Instagram Direct Messages."
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:75
+msgid "AI is typing..."
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:76
+msgid "Sorry, there was an error. Please try again."
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:77
+msgid "Type your message..."
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:78
+msgid "Send"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:79
+msgid "Minimize"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:80
+msgid "Maximize"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:81
+msgid "Close"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:108
+msgid "AI Assistant"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:227
+msgid "Hello! Welcome to %s. How can I help you today?"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:228
+msgid "Hi there! I'm the AI assistant for %s. What would you like to know?"
+msgstr ""
+
+#: includes/class-ai-chat-frontend.php:229
+msgid "Welcome! I'm here to help you with any questions about %s."
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:21
+msgid "Security check failed"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:26
+msgid "Message cannot be empty"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:39
+msgid "Failed to get AI response"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:42
+msgid "AI service temporarily unavailable. Please try again later."
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:52
+msgid "Platform not configured"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:59
+msgid "Hello! I'm visiting %s and would like to chat."
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:107
+msgid "Insufficient permissions"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:127
+msgid "API connection successful!"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:129
+msgid "API connection failed"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:132
+msgid "Connection test failed: "
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:148
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: includes/class-ai-chat-ajax.php:150
+msgid "Failed to save settings"
+msgstr ""
+
+#: includes/class-ai-chat-database.php:97
+msgid "Failed to start conversation"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:82
+msgid "AI API key not configured"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:130
+msgid "Network error: "
+msgstr ""
+
+#: includes/class-ai-chat-api.php:140
+msgid "API request failed"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:151
+msgid "Invalid API response format"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:169
+msgid "You are a helpful AI assistant for %s (%s). The website URL is %s. "
+msgstr ""
+
+#: includes/class-ai-chat-api.php:173
+msgid "You should be friendly, helpful, and knowledgeable about the website content. "
+msgstr ""
+
+#: includes/class-ai-chat-api.php:174
+msgid "Keep your responses concise and relevant. If you don't know something specific about the website, be honest about it."
+msgstr ""
+
+#: includes/class-ai-chat-api.php:179
+msgid "The user is currently viewing: %s"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:209
+msgid "API key is required"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:230
+msgid "Custom API URL is required"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:247
+msgid "Connection successful!"
+msgstr ""
+
+#: includes/class-ai-chat-api.php:253
+msgid "Connection test failed: "
+msgstr ""
